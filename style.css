@@ -1,0 +1,101 @@
+
+body{
+    height: 100vh;
+    background-color: #0828CC ; 
+    color: white;
+    font-family: sans-serif;
+   
+}
+
+nav{
+    font-family: sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    
+width:100%;
+position:initial;
+list-style: none;
+  margin-top: 40px;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+ 
+} 
+.owl{
+    margin-top: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+     
+    
+    } 
+.middletitle{
+    font-size:70px;
+    text-align: center;
+}
+
+.belowmiddle{
+    font-size:20px;
+    text-align: center;
+}
+ 
+#centerbox{
+    box-sizing: 200px: 500px;
+    display: block;
+ 
+ }
+
+ .topbutt{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 2px solid white;
+    cursor:pointer;
+    overflow: hidden;  
+    color: white;
+    border-radius: 100em;
+    width: 150px;
+ }
+
+ .bottombutt{
+    background-color: white;
+    background-repeat:no-repeat;
+    border: 2px solid white;
+    cursor:pointer;
+    overflow: hidden;  
+    color: #0828CC;
+    border-radius: 100em;
+    width: 198px;
+    height: 56px;
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-top: 80px;
+ }
+ 
+ #books{
+     left: 0px;
+     margin-top: 40px;
+     display: flex;
+     justify-content: space-around;
+    word-spacing: 80px;
+ }
+
+ h1{
+     margin-top: 30px;
+ }
+
+ #rotate{
+     text-align: left;
+        transform: rotate(270deg);
+        margin-top: -1200px;
+     margin-left: -1200px;
+ }
+h4{
+    margin-top: 20px;
+}
+
+ 
+ /* .bg {
+    background-image: url( https://s3.amazonaws.com/designco-web-assets/uploads/2017/07/Podcast-large_2x-1450x1112.png );
+     z-index: 
+    background-color: #cccccc;
+} */
